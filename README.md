@@ -2,6 +2,7 @@
 
 
 [Tyche Finance White Paper - English](tychefi.whitepaper.md)
+[Tyche Finance White Paper - 中文](tychefi.whitepaper.cn.md)
 
 ## Revision
 
