@@ -22,7 +22,7 @@
 
 以下是产品业务架构形态:
 
-<img src="resources/TycheFi-BizArch.cn.png" width=800 alt="天池金融业务总体架构" /a>
+<img src="resources/TycheFi-BizArch.cn.png" width=800 title="天池金融业务总体架构" />
 
 
 ## 天池金融后端业务范围
