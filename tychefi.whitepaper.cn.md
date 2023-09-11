@@ -94,7 +94,7 @@
 
 以下是`天赐币`的分配图表:
 <div align="center">
-<img src="resources/TYCHE_Shares.cn.png" width=800 title="天赐币总体分配图" /><br />
+<img src="resources/TYCHE_Allocation_Chart.cn.png" width=800 title="天赐币总体分配图" /><br />
 <b>图1：天赐币总体分配图</b>
 </div>
 
