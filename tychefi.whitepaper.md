@@ -24,7 +24,7 @@ The core team of `TycheFi` deeply believes in altruism and the principle of neve
 
 Here is an overview of `TycheFi`'s platform-level product and business architecture:
 <div align="center">
-<img src="resources/TycheFi-BizArch.cn.png" width=800 title="天池金融业务总体架构" /><br />
+<img src="resources/TycheFi-BizArch.png" width=800 title="TycheFi Business Architecture Overview" /><br />
 <b>Diagram-1：TycheFi Business Architecture</b>
 </div>
 
@@ -98,7 +98,7 @@ In order to incentivize the long-term investors of TycheFi Earn Pools，`TycheFi
 
 Following is the `TYCHE` token allocation chart:
 <div align="center">
-<img src="resources/TYCHE_Allocation_Chart.cn.png" width=800 title="TYCHE allocation chart" /><br />
+<img src="resources/TYCHE_Allocation_Chart.png" width=800 title="TYCHE allocation chart" /><br />
 <b>Diagram-2：TYCHE allocation chart</b>
 </div>
 
