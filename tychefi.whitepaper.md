@@ -60,7 +60,7 @@ Following are the key points about `TycheFi`'s incentive mechanisms:
 - After meeting minimum yield levels, extra incentives from platform profits are distributed to mining pools to boost APY.
 - Based on partnerships between `TycheFi`'s TrueDEX and 3rd parties, partner tokens are airdropped to all pools as added incentives.
 - Pool #5 allows dual-mining of yields and $TYCHE tokens, adding future value.
-- In Pool #5, every 100 USDT deposited mines 1 TYCHE token, with 0.9 TYCHE locked in the pool and 0.1 given to the user.
+- In Pool #5, every 100 USDT deposited mines 1 TYCHE token, with `0.8 TYCHE` locked in the pool and `0.2 TYCHE` given to the user.
 
 
 ## TycheFi Backend Business Scope
