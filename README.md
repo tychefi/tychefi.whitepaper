@@ -1,8 +1,16 @@
 # tychefi.whitepaper
 
-
+## Overarching (Earn) Protocol
 - [Tyche Finance White Paper - English](tychefi.whitepaper.md)
 - [Tyche Finance White Paper - 中文](tychefi.whitepaper.cn.md)
+
+## Loan Protocol
+- [Tyche Loan White Paper - English](tyche.loan.whitepaper.md)
+- [Tyche Loan White Paper - 中文](tyche.loan.whitepaper.cn.md)
+
+## Bet Protocol
+- [Tyche Bet White Paper - English](tyche.bet.whitepaper.md)
+- [Tyche Bet White Paper - 中文](tyche.bet.whitepaper.cn.md)
 
 ## Revision
 
