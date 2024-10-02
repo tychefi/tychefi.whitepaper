@@ -3,7 +3,7 @@
 # Tyche Finance White Paper
 
 ## Industry background
-The whole world economy is now getting into a downturn mode with deflation and consumption dowgrade. Most users not only lack financial knowledge and professional investment management skills, but also severely lack good investment products to obtain reliable medium-to-long term returns. Many users, out of a mentality of trying their luck, pursue huge profits, but end up suffering severe losses in most cases. Numerous users around the world feel confused about future economic development and wealth accumulation, and have lost direction. 
+The whole world economy is now getting into a downturn mode with deflation and consumption dowgrade. Most users not only lack financial knowledge and professional investment management skills, but also severely lack good investment products to obtain reliable medium-to-long term returns. Many users, out of a mentality of trying their luck, pursue huge profits, but end up suffering severe losses in most cases. Numerous users around the world feel confused about future economic development and wealth accumulation, and have lost direction.
 
 `Tyche Finance` (short as `TycheFi`) was founded in such a macro environment. Through the use of professional analysis, including comprehensive analysis of the macro landscape, fundamentals, and technicals, we firmly believe that new enormous opportunities will emerge in the grand cycles of crypto assets and the global economy. The global economy coming out of a downward cycle will become more resilient with the widespread adoption of blockchain technology and develop on an unprecedented scale. Now is the right time to position for the future. `TyechFi` has gathered a group of professionals in financial trading and macroeconomic analysis. Through our team's portfolio management of short, medium and long term yield generating products, and precise risk control, we create reliable income products to meet global users' needs for growing wealth.
 
@@ -20,11 +20,11 @@ The core team of `TycheFi` deeply believes in altruism and the principle of neve
 1. Provide multiple lock-up periods for `TycheFi` Wealth mining pools (`Tyche Earn`) for end users to participate in investment activities in a very simple way. The coins invested by users are mainly stablecoins. All back-end professional operations are handled by the `TycheFi` team.
 2. `TycheFi`'s wealth pools are divided into different pools according to lock-up time, realizing dynamic annualized returns (APY: 2-20%). The longer the lock-up time and the larger the amount invested, the higher the yield.
 3. `TycheFi` issues an equity token $TYCHE. By participating in the 360-day mining pool, users are issued a corresponding proportion of tokens each time they invest funds, realizing an invest-to-mine $TYCHE mechanism.
-4. In the future, `TycheFi` will also provide lending products, allowing users to pledge on-chain for loans and obtain stablecoins for other needs. 
+4. In the future, `TycheFi` will also provide lending products, allowing users to pledge on-chain for loans and obtain stablecoins for other needs.
 
 Here is an overview of `TycheFi`'s platform-level product and business architecture:
 <div align="center">
-<img src="resources/TycheFi-BizArch.png" width=800 title="TycheFi Business Architecture Overview" /><br />
+<img src="../resources/TycheFi-BizArch.png" width=800 title="TycheFi Business Architecture Overview" /><br />
 <b>Diagram-1：TycheFi Business Architecture</b>
 </div>
 
@@ -32,7 +32,7 @@ Here is an overview of `TycheFi`'s platform-level product and business architect
 
 Here is an overview of the `TycheFi` Wealth total mining pools (tyche.earn) divided by lock-up time:
 - `TycheFi` Earn Pool#1: 1 day lockup
-- `TycheFi` Earn Pool#2: 30 day lockup 
+- `TycheFi` Earn Pool#2: 30 day lockup
 - `TycheFi` Earn Pool#3: 90 day lockup
 - `TycheFi` Earn Pool#4: 180 day lockup
 - `TycheFi` Earn Pool#5: 360 day lockup, also the $TYCHE equity mining pool.
@@ -47,7 +47,7 @@ Here are the operating rules and allocation for `TycheFi` users:
 - Any airdrop incentives also go to the wealth pool and distributed based on mining pool share.
 - All users in each mining pool receive proportional distribution based on their share of investment and lockup time for interest and airdrops.
 
-The goal is to incentivize larger and longer deposits while allowing flexibility. Interest and incentives are distributed fairly based on proportional share of funds deposited in each pool. 
+The goal is to incentivize larger and longer deposits while allowing flexibility. Interest and incentives are distributed fairly based on proportional share of funds deposited in each pool.
 
 Here are the key points about the TRUSD stablecoin collateral certificate:
 - For every amount of USDT deposited into `TycheFi` mining pools, an equal value of TRUSD pegged 1:1 to USD is minted and given to the user's account.
@@ -98,7 +98,7 @@ In order to incentivize the long-term investors of TycheFi Earn Pools，`TycheFi
 
 Following is the `TYCHE` token allocation chart:
 <div align="center">
-<img src="resources/TYCHE_Allocation_Chart.png" width=800 title="TYCHE allocation chart" /><br />
+<img src="../resources/TYCHE_Allocation_Chart.png" width=800 title="TYCHE allocation chart" /><br />
 <b>Diagram-2：TYCHE allocation chart</b>
 </div>
 
@@ -109,5 +109,3 @@ Following is the `TYCHE` token allocation chart:
 - All `$TYCHE` token holders can participate in `TycheFi` meetings and decision makings through `TycheFi DAO`, to help promote the healthy development of the overall platform and ecosystem;
 - Top-100`$TYCHE` holders shall be shortlisted to participate `TycheFi` high-yield programs;
 - Top-300`$TYCHE` holders shall be entitled to join the `TycheFi` fine-selected primary market investment programs
-
-

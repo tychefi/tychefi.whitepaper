@@ -24,7 +24,7 @@
 
 以下是`天池金融`的平台级产品业务架构形态:
 <div align="center">
-<img src="resources/TycheFi-BizArch.cn.png" width=800 title="天池金融业务总体架构" /><br />
+<img src="../resources/TycheFi-BizArch.cn.png" width=800 title="天池金融业务总体架构" /><br />
 <b>图1：天池金融业务总体架构</b>
 </div>
 
@@ -94,7 +94,7 @@
 
 以下是`天赐币`的分配图表:
 <div align="center">
-<img src="resources/TYCHE_Allocation_Chart.cn.png" width=800 title="天赐币总体分配图" /><br />
+<img src="../resources/TYCHE_Allocation_Chart.cn.png" width=800 title="天赐币总体分配图" /><br />
 <b>图1：天赐币总体分配图</b>
 </div>
 
@@ -105,5 +105,3 @@
 - 所有持有`$TYCHE`代币的用户可以参与未来天池金融的平台和生态治理大会，共同促进平台和生态的健康和良好发展；
 - Top-100`$TYCHE`持有者可以优先进入`天池金融`建设的未来高收益产品参与机会
 - Top-300`$TYCHE`持有者可以优先进入`天池金融`精选的一级市场投资机会
-
-
