@@ -53,5 +53,6 @@
 ## 奖励分配
 
 为了激励本协议参与各方的主动积极参与，本协议提供以下分配奖励方案：
-
-<img width="320" src="../resources/bet_reward_distribution_ratio.png" />
+<p align="center">
+<img width="640" src="../resources/bet_reward_distribution_ratio.png" />
+</p>
