@@ -1,8 +1,8 @@
 # tychefi.whitepaper
 
 ## Tyche Earn Protocol
-- [Tyche Finance White Paper - 中文](earn/tychefi.whitepaper.cn.md)
-- [Tyche Finance White Paper - English](earn/tychefi.whitepaper.md)
+- [Tyche Earn White Paper - 中文](earn/tychefi.whitepaper.cn.md)
+- [Tyche Earn White Paper - English](earn/tychefi.whitepaper.md)
 
 ## Tyche Loan Protocol
 - [Tyche Loan White Paper - 中文](loan/tyche.loan.whitepaper.cn.md)
